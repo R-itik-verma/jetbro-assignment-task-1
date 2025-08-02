@@ -26,11 +26,11 @@ It allows students to submit essays, upload multiple versions (PDF or DOCX), and
 
 ## 📁 Project Structure
 essay_platform/
-├── essay_platform/ # Django project config
+├── essay_platform/ 
 │ ├── settings.py
 │ ├── urls.py
 │ └── ...
-├── essays/ # App with models, views, serializers
+├── essays/ 
 │ ├── models.py
 │ ├── views.py
 │ ├── urls.py
@@ -40,6 +40,7 @@ essay_platform/
 ├── db.sqlite3
 ├── requirements.txt
 └── README.md
+
 
 
 
