@@ -25,7 +25,7 @@ It allows students to submit essays, upload multiple versions (PDF or DOCX), and
 ---
 
 ## 📁 Project Structure
-'''
+```
 essay_platform/
 ├── essay_platform/ 
 │ ├── settings.py
@@ -42,7 +42,8 @@ essay_platform/
 ├── requirements.txt
 └── README.md
 
-'''
+```
+
 
 
 
